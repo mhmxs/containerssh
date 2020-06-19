@@ -6,6 +6,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/janoszen/containerssh?style=for-the-badge)](https://goreportcard.com/report/github.com/janoszen/containerssh)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/github/janoszen/containerssh?style=for-the-badge)](https://lgtm.com/projects/g/janoszen/containerssh/)
 [![GitHub](https://img.shields.io/github/license/janoszen/containerssh?style=for-the-badge)](LICENSE.md)
+[![Powered By: GoReleaser](https://img.shields.io/badge/powered%20by-goreleaser-green.svg?style=for-the-badge)](https://github.com/goreleaser)
 
 This is a Proof of Concept SSH server written in Go that sends any shell directly into a Docker container or Kubernetes
 pod instead of launching it on a local machine. It uses an HTTP microservice as an authentication endpoint for SSH
